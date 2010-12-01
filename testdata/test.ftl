@@ -1,0 +1,1 @@
+<#list ["winter", "spring", "summer", "autumn"] as x>${x}</#list>
